@@ -1,0 +1,1 @@
+# **This code will generate a dataset with the updated priorities according to your specifications and then train a logistic regression model to classify priorities into 'high', 'medium', and 'low' based on account type and the trend of money increase. Finally, it predicts the priority for a new client.**
